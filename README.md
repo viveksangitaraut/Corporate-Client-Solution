@@ -25,11 +25,18 @@ Leverage capital markets: Event-driven loans, bonds and mezzanine financing.
 Financing solutions: Customized solutions across asset classes including structured financing, real estate financing, special situations group and selective corporate lending.
 
 ## RESPONSIBILITIES
-Understand FRS document and analyze requirements
-Prepare test cases from use cases
-Execute test cases for customer requirement validation
-Review test cases, share feedback with colleagues
-Create mapping sheet for SRS and test cases
-Provide regular status updates to higher authorities
-Participate in daily scrum meetings for project progress
-Log defects using ALM or defect management tool
+•	Understand FRS document and analyze requirements
+
+•	Prepare test cases from use cases
+
+•	Execute test cases for customer requirement validation
+
+•	Review test cases, share feedback with colleagues
+
+•	Create a mapping sheet for SRS and test cases
+
+•	Provide regular status updates to higher authorities
+
+•	Participate in daily scrum meetings for project progress
+
+•	Log defects using ALM or defect management tool
